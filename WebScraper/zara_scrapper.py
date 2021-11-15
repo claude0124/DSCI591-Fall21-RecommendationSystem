@@ -153,7 +153,7 @@ if __name__ == "__main__":
 
     # combine two dataframe and save it in the local folder
     df = pd.concat([men_df, women_df], ignore_index = True)
-    df.to_csv("./zara_tshirt.csv")
+    df.to_csv("./data/zara.csv")
 
 
 
