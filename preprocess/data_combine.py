@@ -8,6 +8,10 @@ df_hm = pd.read_csv(r"./data/hm_clean.csv", index_col=[0])
 df_uniqlo = pd.read_csv(r"./data/uniqlo_clean.csv", index_col=[0])
 df_tentree = pd.read_csv(r"./data/tentree_clean.csv", index_col=[0])
 df_thegoodtee = pd.read_csv(r"./data/thegoodtee_clean.csv", index_col=[0])
+df_dedicated = pd.read_csv(r"./data/dedicated_clean.csv", index_col=[0])
+df_outlanddenim = pd.read_csv(r"./data/outlanddenim_clean.csv", index_col=[0])
+df_thestandardstitch = pd.read_csv(r"./data/thestandardstitch_clean.csv", index_col=[0])
+df_fairIndigo = pd.read_csv(r"./data/fairindigo_clean.csv", index_col=[0])
 
 # make sure all the dataframe only contains these attributes: brand, color, composition, description, imageUrl, title, price, gender 
 print(f"\nzara dataframe contains these columns: {df_zara.columns}")
@@ -15,9 +19,13 @@ print(f"\nhm dataframe contains these columns: {df_hm.columns}")
 print(f"\nuniqlo dataframe contains these columns: {df_uniqlo.columns}")
 print(f"\ntentree dataframe contains these columns: {df_tentree.columns}")
 print(f"\nthegoodtee dataframe contains these columns: {df_thegoodtee.columns}")
+print(f"\ndedicated dataframe contains these columns: {df_dedicated.columns}")
+print(f"\noutlanddenim dataframe contains these columns: {df_outlanddenim.columns}")
+print(f"\nthestandardstitch dataframe contains these columns: {df_thestandardstitch.columns}")
+print(f"\nfairIndigo dataframe contains these columns: {df_fairIndigo.columns}")
 
 # vertically stack them
-df_lst = [df_zara, df_hm, df_uniqlo, df_tentree, df_thegoodtee]
+df_lst = [df_zara, df_hm, df_uniqlo, df_tentree, df_thegoodtee, df_dedicated, df_outlanddenim, df_thestandardstitch, df_fairIndigo]
 df = pd.concat(df_lst, ignore_index = True)
 
 # Replace all empty elements with 0s
@@ -41,6 +49,13 @@ df["sum"] = sum_lst
 # print(df.shape)
 df = df.loc[df["sum"] == 1]
 # print(df.shape)
+
+# delete outlier in description which has 0 as value
+df = df.loc[df["description"] != 0]
+
+# remove duplicated imageUrl
+print("Total duplicates are:", df.imageUrl.duplicated().sum())
+df.drop_duplicates(subset=["imageUrl"], inplace=True)
 
 # save combined dataframe to local
 df.to_csv(r"./data/E-Weaver_data.csv")

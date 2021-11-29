@@ -3,6 +3,7 @@ from PIL import Image
 import requests
 import pandas as pd
 import os
+from tqdm import tqdm
 
 headers = {
     'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko)"
@@ -17,8 +18,6 @@ df = pd.read_csv(r"./data/E-Weaver_data.csv", index_col=[0])
 for idx, row in df.iterrows():
     
     brand = row["brand"]
-    if brand == "tentree":
-        continue
     img_url = row["imageUrl"]
     if img_url.startswith("//"):
         img_url = "http://" + img_url.replace("//", "", 1)

@@ -32,7 +32,7 @@ print(df["color"].head())
 print("-"*90)
 
 # modify gender column value
-df['gender'] = df['gender'].map({"mens": "men", "womens": "women"})
+df['gender'] = df['gender'].map({"mens": "men", "womens": "women", "unisex":"unisex"})
 
 # create a new column of cotton with same value of 100% that reflects composition column
 df['cotton'] = 1

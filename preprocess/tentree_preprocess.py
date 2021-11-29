@@ -9,10 +9,10 @@ df = pd.read_csv(r"./data/tentree.csv")
 
 # NOTE: image_url might not be complete
 # Select targeted attributes
-df = df[["gender", "price", "materials", "color", "image_url", "description", "name"]]
+df = df[["gender", "price", "materials", "color", "image_url", "descr", "name"]]
 
 # rename column names to match column names of HM
-df = df.rename(columns = {"name": "title", "materials": "composition", "image_url": "imageUrl"})
+df = df.rename(columns = {"name": "title", "materials": "composition", "image_url": "imageUrl", "descr": "description"})
 
 # add brand column
 df["brand"] = "tentree"
@@ -50,6 +50,8 @@ for material in materials_lst:
             data.append(int(tmp[0][0])/100)
     df[material] = data
 
+# Fix imageUrl to include https portal prefix
+df["imageUrl"] = "https:" + df["imageUrl"].astype(str)
 
 # set title column as index
 # df.set_index("title", inplace = True)
