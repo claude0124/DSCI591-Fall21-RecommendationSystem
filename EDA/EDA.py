@@ -85,10 +85,36 @@ def plot_material_distribution(df, materials_columns, type):
     counts = []
     for material in materials_columns:
         counts.append(df[material].sum())
-    fig = go.Figure(data=[go.Pie(labels=materials_columns, values = counts,
-                                        title = f"T-shirts composition distribution - {type}")])
-    fig.write_image(f"./EDA/composition_distribution_{type}.png")
+
+    material_df = pd.DataFrame(np.array([counts]), columns=materials_columns)
+    material_majority_dict ={}
+    material_majority_dict["others"] = 0
+    material_minority_dict = {}
+    for material in materials_columns:
+        percent = material_df[material][0]
+        # Include every material that is less than 1% among all 
+        if percent < int(material_df.sum(axis=1)*0.01):
+            material_majority_dict['others'] += percent
+            material_minority_dict[material] = percent
+        else:
+            material_majority_dict[material] = percent
+
+    # Create two new dataframe that consist major and minor materials
+    material_majority_df = pd.DataFrame(data=material_majority_dict, index=[0])
+    material_minority_df = pd.DataFrame(data=material_minority_dict, index=[0])
+    majority_columns = material_majority_df.columns.tolist()
+    minority_columns = material_minority_df.columns.tolist()
+
+    fig = go.Figure(data=[go.Pie(labels=majority_columns, values = list(material_majority_df.iloc[0]),
+                                        title = f"T-shirts composition distribution - {type}: majority")])
+    fig.write_image(f"./EDA/composition_distribution_{type}_majority.png")
     fig.show()
+
+    fig = go.Figure(data=[go.Pie(labels=minority_columns, values = list(material_minority_df.iloc[0]),
+                                        title = f"T-shirts composition distribution - {type}: below 1%")])
+    fig.write_image(f"./EDA/composition_distribution_{type}_minority.png")
+    fig.show()
+
 
 if __name__ == "__main__":
 
@@ -117,7 +143,7 @@ if __name__ == "__main__":
     plt.savefig(f"./EDA/price_histogram.png")
     plt.show()
 
-    # # Outlier analysis of price column
+    # Outlier analysis of price column
     price_df = df["price"]
     ax = sns.boxplot(data = price_df, palette = "Set2")
     plt.title("Outlier analysis of price attribute")
@@ -140,18 +166,18 @@ if __name__ == "__main__":
     plt.show()
 
     brand_lst = list(df.brand.unique())
-    for brand in brand_lst:
-        # Create wordcloud for each indivicual brand
-        tmp_df = df[df["brand"]==brand]
-        make_wordcloud(tmp_df, brand)
+    # for brand in brand_lst:
+    #     # Create wordcloud for each indivicual brand
+    #     tmp_df = df[df["brand"]==brand]
+    #     make_wordcloud(tmp_df, brand)
 
-        # Create visualization for images'size distribution
-        if brand == "tentree":
-            continue
-        imagePath_lst = [os.path.join("data/image_data", f) for f in os.listdir("data/image_data/") if brand in f]
-        dim_df = pd.DataFrame([get_dims(imagePath) for imagePath in imagePath_lst], columns = ["height", "width"])
-        dim_df = dim_df[dim_df.height != 0]
-        plot_image_distribution(dim_df, brand)
+    #     # Create visualization for images'size distribution
+    #     if brand == "tentree":
+    #         continue
+    #     imagePath_lst = [os.path.join("data/image_data", f) for f in os.listdir("data/image_data/") if brand in f]
+    #     dim_df = pd.DataFrame([get_dims(imagePath) for imagePath in imagePath_lst], columns = ["height", "width"])
+    #     dim_df = dim_df[dim_df.height != 0]
+    #     plot_image_distribution(dim_df, brand)
 
     # Create wordcloud for all data
     make_wordcloud(df, "all")
@@ -159,6 +185,7 @@ if __name__ == "__main__":
     # Create visualization for all images's size
     imagePath_lst = [os.path.join("data/image_data", f) for f in os.listdir("data/image_data/")]
     dim_df = pd.DataFrame([get_dims(imagePath) for imagePath in imagePath_lst], columns = ["height", "width"])
+    
     # Get rid of image failed to download which only has 1 channel only
     dim_df = dim_df[dim_df.height != 0]
     plot_image_distribution(dim_df, "all")
@@ -174,12 +201,13 @@ if __name__ == "__main__":
 
     plot_material_distribution(df, materials_columns, "all")
     # Create visualization for each gender's composition materials
-    plot_material_distribution(df_men, materials_columns, "men")
-    plot_material_distribution(df_women, materials_columns, "women")
+    # plot_material_distribution(df_men, materials_columns, "men")
+    # plot_material_distribution(df_women, materials_columns, "women")
     # Create visualization for each brand's composition materials
-    for brand in brand_lst:
-        tmp_df = df[df["brand"]==brand]
-        plot_material_distribution(tmp_df, materials_columns, brand)
+    # for brand in brand_lst:
+    #     tmp_df = df[df["brand"]==brand]
+    #     plot_material_distribution(tmp_df, materials_columns, brand)
+
 
     # Create distribution of numbers of materials in a t-shirt
     # first get boolean value for all the numbers value in all materials sub-dataset, True for any number and False for 0
