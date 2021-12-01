@@ -12,6 +12,8 @@ df_dedicated = pd.read_csv(r"./data/dedicated_clean.csv", index_col=[0])
 df_outlanddenim = pd.read_csv(r"./data/outlanddenim_clean.csv", index_col=[0])
 df_thestandardstitch = pd.read_csv(r"./data/thestandardstitch_clean.csv", index_col=[0])
 df_fairIndigo = pd.read_csv(r"./data/fairindigo_clean.csv", index_col=[0])
+df_zerum = pd.read_csv(r"./data/zerum_clean.csv", index_col=[0])
+df_livingCraft = pd.read_csv(r"./data/livingCraft_clean.csv", index_col=[0])
 
 # make sure all the dataframe only contains these attributes: brand, color, composition, description, imageUrl, title, price, gender 
 print(f"\nzara dataframe contains these columns: {df_zara.columns}")
@@ -23,9 +25,11 @@ print(f"\ndedicated dataframe contains these columns: {df_dedicated.columns}")
 print(f"\noutlanddenim dataframe contains these columns: {df_outlanddenim.columns}")
 print(f"\nthestandardstitch dataframe contains these columns: {df_thestandardstitch.columns}")
 print(f"\nfairIndigo dataframe contains these columns: {df_fairIndigo.columns}")
+print(f"\nzerum dataframe contains these columns: {df_zerum.columns}")
+print(f"\nlivingCraft dataframe contains these columns: {df_livingCraft.columns}")
 
 # vertically stack them
-df_lst = [df_zara, df_hm, df_uniqlo, df_tentree, df_thegoodtee, df_dedicated, df_outlanddenim, df_thestandardstitch, df_fairIndigo]
+df_lst = [df_zara, df_hm, df_uniqlo, df_tentree, df_thegoodtee, df_dedicated, df_outlanddenim, df_thestandardstitch, df_fairIndigo, df_zerum, df_livingCraft]
 df = pd.concat(df_lst, ignore_index = True)
 
 # Replace all empty elements with 0s
