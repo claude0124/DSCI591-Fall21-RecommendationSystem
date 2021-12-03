@@ -122,6 +122,39 @@ def plot_material_distribution(df, materials_columns, type):
     fig.show()
 
 
+def get_cmap(n, name='hsv'):
+    '''Returns a function that maps each index in 0, 1, ..., n-1 to a distinct 
+    RGB color; the keyword argument name must be a standard mpl colormap name.'''
+    return plt.cm.get_cmap(name, n)
+
+
+def plot_price_kde(df):
+    brand_lst = list(df["brand"].unique())
+    # create a new empty dataframe to hold price for each brand as columns
+    price_df = pd.DataFrame()
+    sub_df = df[["price", "brand"]]
+    for brand in brand_lst:
+        tmp_df=sub_df[sub_df.brand==brand]
+        tmp_df= tmp_df.drop(columns=["brand"]).rename(columns={"price":brand})
+        price_df = pd.concat([price_df, tmp_df], axis=1)
+
+    sns.set_style('whitegrid')
+    cmap=get_cmap(len(brand_lst))
+    i=0
+    for brand in brand_lst:
+        try:
+            sns.kdeplot(np.array(price_df[brand]), shade=True, color = cmap(i), label=brand, bw=1)
+        except:
+            print(brand)
+        i+=1
+    plt.xlabel("Price($)")
+    plt.ylabel("Density")
+    plt.title("KDE for price attribute")
+    plt.legend()
+    plt.savefig(f"./EDA/price_kde.png")
+    plt.show()
+
+
 if __name__ == "__main__":
 
     df = pd.read_csv("./data/E-Weaver_data.csv", index_col = [0])
@@ -173,17 +206,18 @@ if __name__ == "__main__":
 
     brand_lst = list(df.brand.unique())
     # for brand in brand_lst:
-    #     # Create wordcloud for each indivicual brand
-    #     tmp_df = df[df["brand"]==brand]
-    #     make_wordcloud(tmp_df, brand)
+        # # Create wordcloud for each indivicual brand
+        # tmp_df = df[df["brand"]==brand]
+        # make_wordcloud(tmp_df, brand)
 
-    #     # Create visualization for images'size distribution
-    #     if brand == "tentree":
-    #         continue
-    #     imagePath_lst = [os.path.join("data/image_data", f) for f in os.listdir("data/image_data/") if brand in f]
-    #     dim_df = pd.DataFrame([get_dims(imagePath) for imagePath in imagePath_lst], columns = ["height", "width"])
-    #     dim_df = dim_df[dim_df.height != 0]
-    #     plot_image_distribution(dim_df, brand)
+        # # Create visualization for images'size distribution
+        # imagePath_lst = [os.path.join("data/image_data", f) for f in os.listdir("data/image_data/") if brand in f]
+        # dim_df = pd.DataFrame([get_dims(imagePath) for imagePath in imagePath_lst], columns = ["height", "width"])
+        # dim_df = dim_df[dim_df.height != 0]
+        # plot_image_distribution(dim_df, brand)
+
+    # Create density distribution plot for price
+    plot_price_kde(df)
 
     # Create wordcloud for all data
     make_wordcloud(df, "all")
@@ -198,8 +232,26 @@ if __name__ == "__main__":
 
     # Create visualization for price column
     # plot_order1 = df["price"].groupby('price')['price'].sum().sort_values(ascending=True).index.values
-    g = sns.catplot("price", data=df, kind='count', height=10, aspect=1.5)
-    (g.set_axis_labels("Price", "Count").set_titles("All data price distribution").despine(left=True))  
+    g = sns.catplot("price", data=df, kind='count', height=5, aspect=2.5)
+    g.set_axis_labels("Price", "Count").set_titles("All data price distribution").despine(left=True)
+    unique_price = list(df["price"].unique())
+    count_lst = list(df.groupby("price").size())
+    # for i in range(len(unique_price)):
+    #     g.axes.text(i, count_lst[i]+2, str(count_lst[i]), fontdict=dict(color="black", fontsize=10))
+    plt.xticks(rotation=45)
+    plt.savefig(f"./EDA/price_distribution.png")
+    plt.show()  
+
+    # Create barplots for genders attribute
+    df['gender'].value_counts().head(4).plot.bar()
+    plt.title("Gender Distribution")
+    plt.xlabel("Listed Gender")
+    plt.ylabel("Counts")
+    plt.xticks(rotation=45)
+    for i, v in enumerate(list(df['gender'].value_counts())):
+        plt.text(i, v + 1, str(v), color='blue', fontweight='bold')
+    plt.savefig(f"./EDA/gender_histogram.png")
+    plt.show()
 
     # Create visualization for all the composition materials
     df_men = df[df["gender"]=="men"]
