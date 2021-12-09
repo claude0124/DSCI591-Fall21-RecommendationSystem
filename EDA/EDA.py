@@ -219,6 +219,17 @@ if __name__ == "__main__":
     # Create density distribution plot for price
     plot_price_kde(df)
 
+    # Create barplots for each brand count attribute
+    df['brand'].value_counts().plot.bar()
+    plt.title("Brands Distribution")
+    plt.xlabel("Brands")
+    plt.ylabel("Counts")
+    plt.xticks(rotation=45)
+    for i, v in enumerate(list(df['brand'].value_counts())):
+        plt.text(i, v + 1, str(v), color='blue', fontweight='bold')
+    plt.savefig(f"./EDA/gender_histogram.png")
+    plt.show()
+
     # Create wordcloud for all data
     make_wordcloud(df, "all")
 
