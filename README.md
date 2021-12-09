@@ -5,9 +5,11 @@
 The fashion industry has been grappling with the demands of consumers to shift towards a more "sustainable" manufacturing process and offer consumers better options to meet their moral beliefs. Although many tools are used by industry to measure clothing sustainability, few brands consider the entire "cradle-to-grave" life-cycle of textiles to better their product and practices;  more established household brands experience difficulty replacing timely, cost-effective methods for "eco-friendly" ones. Thus we propose a sustainable clothing recommendation system called E-Weaver, which will incorporate state-of-the-art image processing methods for feature extraction and a novel sustainability metric to assist consumers with purchasing more environmentally-conscious products. This repository contains the data collected and combined final dataset.
 
 ![dataPipline](Misc/Scraping_diagram.jpg)
+
 Here are the schematic diagram for the data collection.
 
 ![systemFramework](Misc/e-weaver_v2.jpg)
+
 Here are the schematic diagram of entire system framework - image classifcation and clustering.
 
 ## data
@@ -27,9 +29,11 @@ This folder contains the cleaning scripts for each individual brands.
 This folder contains some key finidngs from the E-Weaver_data.csv. 
 
 ![priceHist](Misc/price_hist.jpg)
+
 Here are the histrogram plot of price bin of all the T-shirts
 
 ![materialPie](Misc/material_pie.png)
+
 Here are the pie chart of materials distribution of all the T-shirts
 
 ## sustainability_index
@@ -40,4 +44,6 @@ This folder contains the work related to calculating the sustainbility index for
 
 In the second half the capstone, the conceptualization of the E-Weaver as a clothing recommendation platform will be continued -- the model development will be the focus of our work moving forward.
 
+## For More Information
 
+For any additional questions, please contact [Dayun Piao](mailto:claude0124p@gmail.com), [Colin Murphy](mailto:ClnJMurph@gmail.com), [Matthew Merenich](mailto:m.merenich21@gmail.com), [Zifeng Wang](mailto:wangzf.sec@gmail.com).
