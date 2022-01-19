@@ -42,12 +42,23 @@ for col_name in ['color', 'gender', 'brand']:
         tmp = categorical_encoding(df, col_name)
         features = np.concatenate((features, tmp),axis=1) 
 
+# Add the rest of numerical features of 'price' and each individual materials
+columns = df.columns.tolist()
+composition_index = columns.index("composition")
+materials_columns = columns[composition_index+1:-1]
+
+### Dayun to finish features by eod Tues ###
+
+### end of Dayun's work ###
+
 print(features.shape)
 
 # Check how many unique values in each categorical columns
-print('Unique colors:', len(df["color"].unique()))
-print('Unique brands:', len(df["brand"].unique()))
-print('Unique genders:', len(df["gender"].unique()))
+# print('Unique colors:', len(df["color"].unique()))
+# print('Unique brands:', len(df["brand"].unique()))
+# print('Unique genders:', len(df["gender"].unique()))
+
+#NOTE: use only one of the scaler method below
 
 # # Rescale data
 # scaler = MinMaxScaler(feature_range=(0,1))
@@ -65,6 +76,7 @@ print('Unique genders:', len(df["gender"].unique()))
 # np.set_printoptions(precision=3)
 # print(X_normalized[:5, :])
 
+#NOTE: tryout different clustering ml models (interested: K-nearest neighboring models)
 # Define the model
 # model = GaussianMixture(n_components=2)
 
@@ -77,6 +89,7 @@ print('Unique genders:', len(df["gender"].unique()))
 # # Retrieve unique clusters
 # clusters = unique(yhat)
 
+#NOTE: try visualize our result, the below code might not work, use as reference
 # Create scatter plot for each example from each cluster
 # for cluster in clusters:
 #     # Get each example index for this cluster
