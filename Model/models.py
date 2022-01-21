@@ -6,6 +6,7 @@ import os
 from matplotlib import pyplot as plt
 
 from sklearn.mixture import GaussianMixture
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import Normalizer, StandardScaler, MinMaxScaler, LabelEncoder, OneHotEncoder
 
 
@@ -73,16 +74,17 @@ if __name__ == "__main__":
     # Loading features 
     features = gen_features(df)
 
+    print(features)
     #NOTE: use only one of the scaler method below
-    # # Rescale data
+    # # Rescale data - useful for algorithms that use distance measures like K-Nearest Neighbors.
     # scaler = MinMaxScaler(feature_range=(0,1))
     # X_MinMaxScaled = scaler.fit_transform(X)
 
     # # Standardize Data
-    # scaler = StandardScaler().fit(X)
-    # X_standardized = scaler.transform(X)
+    # scaler = StandardScaler().fit(features)
+    # X_standardized = scaler.transform(features)
 
-    # # Normalize Data
+    # # Normalize Data - useful for sparse datasets (a lot of zeroes)
     # scaler = Normalizer().fit(X)
     # X_normalized = scaler.transform(X)
 
@@ -92,10 +94,10 @@ if __name__ == "__main__":
 
     #NOTE: tryout different clustering ml models (interested: K-nearest neighboring models)
     # Define the model
-    # model = GaussianMixture(n_components=2)
+    # model = KNeighborsClassifier(n_neighbors=5, metric = 'minkowski', p = 2)
 
     # # Fit the model
-    # model.fit(X)
+    # model.fit(X_train, y_train)
 
     # # Assign a cluster to each example
     # yhat = model.prediction(X)
@@ -106,7 +108,7 @@ if __name__ == "__main__":
     #NOTE: try visualize our result, the below code might not work, use as reference
     # Create scatter plot for each example from each cluster
     # for cluster in clusters:
-    #     # Get each example index for this cluster
+        # Get each example index for this cluster
     #     row_index = where(yhat == cluster)
     #     # Create scatter plot of these samples after performing PCA
     #     plt.scatter(X[row_index, 0], X[row_index, 1])
