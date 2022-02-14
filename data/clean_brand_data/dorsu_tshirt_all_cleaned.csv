@@ -1,113 +1,40 @@
-SN,title,color,imageUrl,price_aud,price_usd,material,gender,brand,care,rayon,nylon,spandex,acrylic,polyester,cupro,modal,lyocell,cotton
-1,ROLLED SLEEVE CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_we_01_front_bf10dd52-b44c-43df-ae0f-27b7848d4dbd_1200x.jpg?v=1596452327,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-2,ROLLED SLEEVE CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_bk_01_front_11156e46-2a11-4f15-ab05-976c921e348d_1200x.jpg?v=1597833816,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-3,ROLLED SLEEVE CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_ny_01_front_6316ce6c-a3b0-4bb7-abed-4263d2b17f5d_1200x.jpg?v=1596452267,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-4,ROLLED SLEEVE CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_gm_01_front_1200x.jpg?v=1596452225,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-5,ROLLED SLEEVE CREW | SEAFOAM,seaform,https://cdn.shopify.com/s/files/1/2580/8724/products/Dorsu-teal-tee-front_1200x.jpg?v=1596452301,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-6,LONG SLEEVE TURTLENECK | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/women-s-tops-long-sleeve-turtleneck-black-2_1200x.jpg?v=1596451568,55,39.05,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-7,CLASSIC T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_bk_01_front_1200x.jpg?v=1596450451,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-8,CLASSIC T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_we_01_front_1200x.jpg?v=1596450568,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-9,CLASSIC T-SHIRT | SAND,sand,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_sd_01_front_1200x.jpg?v=1596450512,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-10,LONG SLEEVE TURTLENECK | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/women-s-tops-long-sleeve-turtleneck-black-2_1200x.jpg?v=1596451568,55,39.05,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-11,FITTED T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_we_01_front_106b9e42-bbc4-4b9c-b1c3-6bff9be95b21_1200x.jpg?v=1596451261,40,28.40,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-12,FITTED T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_bk_01_front_c490f807-c983-4e9f-ad67-a9c345c6490f_1200x.jpg?v=1597833882,40,28.40,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-13,FITTED T-SHIRT | STONE GREY,stone grey,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_gy_01_front_88a687cb-95a5-4007-a6e1-bf815045eb5f_1200x.jpg?v=1597833876,40,28.40,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-14,STAPLE LONG SLEEVE | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew079_bk_02_side_1_1200x.jpg?v=1596501820,40,28.40,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-15,STAPLE LONG SLEEVE | white,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew079_bk_02_side_1_1200x.jpg?v=1596501820,40,28.40,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-16,SMFF ALL DAY T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/womens-tops-fair-fashion-cotton-white-1_1200x.jpg?v=1607414145,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-17,SMFF ALL DAY T-SHIRT I MUSTARD,mustard,https://cdn.shopify.com/s/files/1/2580/8724/products/womens-tops-fair-fashion-cotton-mustard-1_1200x.jpg?v=1607414147,50,35.50,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-18,BOAT NECK 3/4 SLEEVE TOP | BURGUNDY,burgundy,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_BY_02_Side_1200x.jpg?v=1617707998,55,39.05,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-19,BOAT NECK 3/4 SLEEVE TOP | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_BK_01_Front_1200x.jpg?v=1617707995,55,39.05,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-20,BOAT NECK 3/4 SLEEVE TOP | PEARL GREY,pearl gret,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_PG_01_Front_1200x.jpg?v=1617707999,55,39.05,100 % cotton jersey,women,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-21,COTTON TALL CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-tall-crew-black-1_1200x.jpg?v=1561609459,40,28.40,100 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-22,COTTON TALL CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-tall-crew-white-1_1200x.jpg?v=1561609461,40,28.40,101 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-23,COTTON CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-crew-black-1_1200x.jpg?v=1597833780,40,28.40,102 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-24,COTTON CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-crew-white-1_1200x.jpg?v=1597833774,40,28.40,103 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-25,LONG SLEEVED POCKET T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-long-sleeved-pocket-t-shirt-black-2_1200x.jpg?v=1561609519,22.5,15.98,104 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-26,LONG SLEEVE POCKET T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-pocket-shirt-white-3_1200x.jpg?v=1561609510,22.5,15.98,105 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-27,CORE LONG SLEEVE T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/EM526_BK_01_Front_1200x.jpg?v=1624095762,45,31.95,106 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-28,SMFF MEN'S T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-black-1_1200x.png?v=1637115397,50,35.50,107 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-29,SMFF MEN'S T-SHIRT | MUSTARD,mustard,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-mustard1_1200x.png?v=1637117850,50,35.50,108 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-30,SMFF MEN'S T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-white_1200x.png?v=1637118370,50,35.50,109 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-31,COTTON TALL CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/EM509_NY_Front_CC_1200x.png?v=1635322509,40,28.40,110 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-32,CORE LONG SLEEVE T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-white_1200x.png?v=1637116584,45,31.95,111 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-33,SMFF MEN'S T-SHIRT | GRAPE,grape,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-grape-1_1200x.jpg?v=1607414134,45,31.95,112 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-34,COTTON CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-core-crew-grey-marle_1200x.png?v=1637117311,40,28.40,113 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-35,COTTON CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/EM501_ny_01_Front_1200x.png?v=1643001787,40,28.40,114 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-36,CORE LONG SLEEVE T-SHIRT | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/EM526_GM_01_Front_1200x.jpg?v=1624095764,45,31.95,115 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-37,CORE LONG SLEEVE T-SHIRT | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-navy1_1200x.png?v=1637115972,45,31.95,116 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-38,COTTON TALL CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-tall-crew-grey-marle_1200x.png?v=1637117137,40,28.40,117 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-39,SMFF MEN'S T-SHIRT | CHARCOAL,charcoal,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-charcoal_1200x.png?v=1637118531,50,35.50,118 % cotton jersey,men,Dorsu,cold water wash and tumble dry low,0,0,0,0,0,0,0,0,1
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
+,title,color,imageUrl,price,gender,brand,description,,composition,cotton
+0,ROLLED SLEEVE CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_we_01_front_bf10dd52-b44c-43df-ae0f-27b7848d4dbd_1200x.jpg?v=1596452327,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+1,ROLLED SLEEVE CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_bk_01_front_11156e46-2a11-4f15-ab05-976c921e348d_1200x.jpg?v=1597833816,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+2,ROLLED SLEEVE CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_ny_01_front_6316ce6c-a3b0-4bb7-abed-4263d2b17f5d_1200x.jpg?v=1596452267,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+3,ROLLED SLEEVE CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/ew007_gm_01_front_1200x.jpg?v=1596452225,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+4,ROLLED SLEEVE CREW | SEAFOAM,seaform,https://cdn.shopify.com/s/files/1/2580/8724/products/Dorsu-teal-tee-front_1200x.jpg?v=1596452301,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+5,LONG SLEEVE TURTLENECK | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/women-s-tops-long-sleeve-turtleneck-black-2_1200x.jpg?v=1596451568,39.05,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+6,CLASSIC T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_bk_01_front_1200x.jpg?v=1596450451,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+7,CLASSIC T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_we_01_front_1200x.jpg?v=1596450568,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+8,CLASSIC T-SHIRT | SAND,sand,https://cdn.shopify.com/s/files/1/2580/8724/products/ew080_sd_01_front_1200x.jpg?v=1596450512,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+9,LONG SLEEVE TURTLENECK | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/women-s-tops-long-sleeve-turtleneck-black-2_1200x.jpg?v=1596451568,39.05,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+10,FITTED T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_we_01_front_106b9e42-bbc4-4b9c-b1c3-6bff9be95b21_1200x.jpg?v=1596451261,28.4,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+11,FITTED T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_bk_01_front_c490f807-c983-4e9f-ad67-a9c345c6490f_1200x.jpg?v=1597833882,28.4,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+12,FITTED T-SHIRT | STONE GREY,stone grey,https://cdn.shopify.com/s/files/1/2580/8724/products/ew055_gy_01_front_88a687cb-95a5-4007-a6e1-bf815045eb5f_1200x.jpg?v=1597833876,28.4,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+13,STAPLE LONG SLEEVE | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/ew079_bk_02_side_1_1200x.jpg?v=1596501820,28.4,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+14,STAPLE LONG SLEEVE | white,white,https://cdn.shopify.com/s/files/1/2580/8724/products/ew079_bk_02_side_1_1200x.jpg?v=1596501820,28.4,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+15,SMFF ALL DAY T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/womens-tops-fair-fashion-cotton-white-1_1200x.jpg?v=1607414145,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+16,SMFF ALL DAY T-SHIRT I MUSTARD,mustard,https://cdn.shopify.com/s/files/1/2580/8724/products/womens-tops-fair-fashion-cotton-mustard-1_1200x.jpg?v=1607414147,35.5,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+17,BOAT NECK 3/4 SLEEVE TOP | BURGUNDY,burgundy,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_BY_02_Side_1200x.jpg?v=1617707998,39.05,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+18,BOAT NECK 3/4 SLEEVE TOP | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_BK_01_Front_1200x.jpg?v=1617707995,39.05,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+19,BOAT NECK 3/4 SLEEVE TOP | PEARL GREY,pearl gret,https://cdn.shopify.com/s/files/1/2580/8724/products/EW084_PG_01_Front_1200x.jpg?v=1617707999,39.05,women,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+20,COTTON TALL CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-tall-crew-black-1_1200x.jpg?v=1561609459,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+21,COTTON TALL CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-tall-crew-white-1_1200x.jpg?v=1561609461,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+22,COTTON CREW | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-crew-black-1_1200x.jpg?v=1597833780,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+23,COTTON CREW | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-cotton-crew-white-1_1200x.jpg?v=1597833774,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+24,LONG SLEEVED POCKET T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/men-s-shirts-long-sleeved-pocket-t-shirt-black-2_1200x.jpg?v=1561609519,15.98,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+25,LONG SLEEVE POCKET T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-pocket-shirt-white-3_1200x.jpg?v=1561609510,15.98,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+26,CORE LONG SLEEVE T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/EM526_BK_01_Front_1200x.jpg?v=1624095762,31.95,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+27,SMFF MEN'S T-SHIRT | BLACK,black,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-black-1_1200x.png?v=1637115397,35.5,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+28,SMFF MEN'S T-SHIRT | MUSTARD,mustard,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-mustard1_1200x.png?v=1637117850,35.5,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+29,SMFF MEN'S T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-white_1200x.png?v=1637118370,35.5,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+30,COTTON TALL CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/EM509_NY_Front_CC_1200x.png?v=1635322509,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+31,CORE LONG SLEEVE T-SHIRT | WHITE,white,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-white_1200x.png?v=1637116584,31.95,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+32,SMFF MEN'S T-SHIRT | GRAPE,grape,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-grape-1_1200x.jpg?v=1607414134,31.95,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+33,COTTON CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-core-crew-grey-marle_1200x.png?v=1637117311,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+34,COTTON CREW | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/EM501_ny_01_Front_1200x.png?v=1643001787,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+35,CORE LONG SLEEVE T-SHIRT | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/EM526_GM_01_Front_1200x.jpg?v=1624095764,31.95,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+36,CORE LONG SLEEVE T-SHIRT | NAVY,navy,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-long-sleeve-navy1_1200x.png?v=1637115972,31.95,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+37,COTTON TALL CREW | GREY MARLE,grey marle,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-tall-crew-grey-marle_1200x.png?v=1637117137,28.4,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1
+38,SMFF MEN'S T-SHIRT | CHARCOAL,charcoal,https://cdn.shopify.com/s/files/1/2580/8724/products/mens-shirts-fair-fashion-charcoal_1200x.png?v=1637118531,35.5,men,Dorsu,cold water wash and tumble dry low,,100 % cotton jersey,1

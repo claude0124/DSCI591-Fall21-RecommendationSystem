@@ -1,269 +1,55 @@
-SN,title,color,imageUrl,price_euro,price_usd,material,gender,brand,kapok,vibrose,linen,rayon,nylon,spandex,acrylic,polyester,cupro,modal,lyocell,cotton
-1,UPPERFRANCONIA T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/18b/upperfranconia-t-shirt-ladies-blue-bf6.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-2,WINDY HEIGHTS HEMP T-SHIRT LADIES OFFWHITE,off white,https://www.bleed-clothing.com/media/product/582/windy-heights-hemp-t-shirt-ladies-offwhite-648.jpg,44.9,51.19,15% Hemp 85% Organic Cotton,women,bleed,0,0,0.15,0,0,0,0,0,0,0,0,0.85
-3,SUPER ACTIVE LENZING? ECOVERO? T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/6a5/super-active-lenzingtm-ecoverotm-t-shirt-ladies-blue-723.jpg,49.9,56.89,100% Viskose,women,bleed,0,1,0,0,0,0,0,0,0,0,0,0
-4,365 T-SHIRT LYOCELL (TENCEL?) LADIES GREY,grey,https://www.bleed-clothing.com/media/product/17e/365-t-shirt-lyocell-tenceltm-ladies-grey-aa5.jpg,36.9,42.07,100% Lyocell (TENCEL?),women,bleed,0,0,0,0,0,0,0,0,0,0,1,0
-5,365 T-SHIRT KAPOK LADIES WHITE,white,https://www.bleed-clothing.com/media/product/9b4/365-t-shirt-kapok-ladies-white-caa.jpg,36.9,42.07,"15% Kapok, 85% Organic Cotton",women,bleed,0.15,0,0,0,0,0,0,0,0,0,0,0.85
-6,365 T-SHIRT LYOCELL (TENCEL?) LADIES BLACK,black,https://www.bleed-clothing.com/media/product/471/365-t-shirt-lyocell-tenceltm-ladies-black-a31.jpg,36.9,42.07,100% Lyocell (TENCEL?),women,bleed,0,0,0,0,0,0,0,0,0,0,1,0
-7,ALPINE SWIFT HEMP T-SHIRT LADIES OFFWHITE,off white,https://www.bleed-clothing.com/media/product/d50/alpine-swift-hemp-t-shirt-ladies-offwhite-a3a.jpg,33.7,38.42,15% Hemp 85% Organic Cotton,women,bleed,0,0,0.15,0,0,0,0,0,0,0,0,0.85
-8,LAKEFLY T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/0d0/lakefly-t-shirt-ladies-white-24b.jpg,29.9,34.09,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-9,LAKEFLY FORESTFIBRE T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/e49/lakefly-forestfibre-t-shirt-ladies-blue-c3d.jpg,37.4,42.64,50% Modal (TENCEL?) 50% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-10,FERNSTER FORESTFIBRE T-SHIRT LADIES YELLOW,yellow,https://www.bleed-clothing.com/media/product/c8d/fernster-forestfibre-t-shirt-ladies-yellow-b7c.jpg,37.4,42.64,50% Modal (TENCEL?) 50% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-11,STRIPED LINEN T-SHIRT LADIES SAND,sand,https://www.bleed-clothing.com/media/product/e40/striped-linen-t-shirt-ladies-sand-fa1.jpg,37.4,42.64,"50% Linen, 50% Organic Cotton",women,bleed,0,0,0.5,0,0,0,0,0,0,0,0,0.5
-12,SCHWAMMA T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/81d/schwamma-t-shirt-ladies-white-bb8.jpg,36.9,42.07,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-13,FLAGTREE T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/017/flagtree-t-shirt-ladies-blue-a67.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-14,STRANGESTFOREST T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/666/strangestforest-t-shirt-black-8bf.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-15,UPPERFRANCONIA T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/672/upperfranconia-t-shirt-ladies-white-32c.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-16,HOMEGROWN FICHTEL T-SHIRT LADIES GREY MELANGE,GREY MELANGE,https://www.bleed-clothing.com/media/product/317/homegrown-fichtel-t-shirt-ladies-grey-melange-c18.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-17,FICHTELFORNIA T-SHIRT LADIES DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/c93/fichtelfornia-t-shirt-ladies-dark-green-f19.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-18,ROAD B303 T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/836/road-b303-t-shirt-black-a07.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-19,NATURAL GROWN FLOWER T-SHIRT LADIES WHITE | MINT,white-mint,https://www.bleed-clothing.com/media/product/f7a/natural-grown-flower-t-shirt-ladies-white-mint-236.jpg,30.32,34.56,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-20,NATURAL GROWN T-SHIRT LADIES HEMP OFFWHITE,off white,https://www.bleed-clothing.com/media/product/f4b/natural-grown-t-shirt-ladies-hemp-offwhite-aad.jpg,44.9,51.19,15% Hemp 85% Organic Cotton,women,bleed,0,0,0.15,0,0,0,0,0,0,0,0,0.85
-21,SKULLFLOWER T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/55c/skullflower-t-shirt-ladies-white-8ef.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-22,LIZARDSKIN LYOCELL (TENCEL?) T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/847/lizardskin-lyocell-tenceltm-t-shirt-ladies-blue-b62.jpg,44.9,51.19,100% Lyocell (TENCEL?),women,bleed,0,0,0,0,0,0,0,0,0,0,1,0
-23,BLOODYPINEAPPLE T-SHIRT LADIES RED,red,https://www.bleed-clothing.com/media/product/c15/bloodypineapple-t-shirt-ladies-red-0c2.jpg,36.9,42.07,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-24,BLOODYPINEAPPLE T-SHIRT LADIES NAVY,blue,https://www.bleed-clothing.com/media/product/6b7/bloodypineapple-t-shirt-ladies-navy-ed5.jpg,36.9,42.07,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-25,BLEED X PETA HUMANE MEAT LADIES T-SHIRT ANTHRACITE FLAM?,black,https://www.bleed-clothing.com/media/product/1a8/bleed-x-peta-humane-meat-ladies-t-shirt-anthracite-flame-5d3.jpg,34.9,39.79,100% Organic Cotton,women,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-26,STRANGESTFOREST T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/8ff/strangestforest-t-shirt-black-295.jpg,34.9,39.79,"60% Organic Cotton, 40% Recycled Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-27,SEIDLA T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/8e5/seidla-t-shirt-blue-231.jpg,34.9,39.79,"60% Organic Cotton, 40% Recycled Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-28,FICHTELFORNIA T-SHIRT OLIVE,olive,https://www.bleed-clothing.com/media/product/680/fichtelfornia-t-shirt-olive-ef2.jpg,34.9,39.79,"60% Organic Cotton, 40% Recycled Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-29,UPPERFRANCONIA T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/cd8/upperfranconia-t-shirt-blue-f6d.jpg,34.9,39.79,"60% Organic Cotton, 40% Recycled Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-30,BLOCK STRIPE HEMP T-SHIRT,blue | offwhite | ochre,https://www.bleed-clothing.com/media/product/57c/block-stripe-hemp-t-shirt-e62.jpg,44.9,51.19,15% Hemp 85% Organic Cotton,men,bleed,0,0,0.15,0,0,0,0,0,0,0,0,0.85
-31,WOOD LOGO T-SHIRT OLIVE,olive,https://www.bleed-clothing.com/media/product/dc6/wood-logo-t-shirt-olive-926.jpg,39.9,45.49,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-32,SUPER ACTIVE LENZING? ECOVERO? T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/b47/super-active-lenzingtm-ecoverotm-t-shirt-blue-54a.jpg,49.9,56.89,100% Viskose,men,bleed,0,1,0,0,0,0,0,0,0,0,0,0
-33,365 T-SHIRT KAPOK WHITE,white,https://www.bleed-clothing.com/media/product/497/365-t-shirt-kapok-white-3e1.jpg,36.9,42.07,"15% Kapok, 85% Organic Cotton",men,bleed,0.15,0,0,0,0,0,0,0,0,0,0,0.85
-34,365 T-SHIRT MODAL (TENCEL?) GREY,grey,https://www.bleed-clothing.com/media/product/c02/365-t-shirt-modal-tenceltm-grey-66f.jpg,36.9,42.07,"25% Modal (TENCEL?), 75% Organic Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0.25,0,0.75
-35,365 T-SHIRT BLACK FLAM?,black,https://www.bleed-clothing.com/media/product/0a6/365-t-shirt-black-flame-933.jpg,36.9,42.07,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-36,POCKET FORESTFIBRE T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/33a/pocket-forestfibre-t-shirt-blue-cef.jpg,37.4,42.64,"50% Modal (TENCEL?), 50% Organic Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-37,POCKET FORESTFIBRE T-SHIRT YELLOW,yellow,https://www.bleed-clothing.com/media/product/c0c/pocket-forestfibre-t-shirt-yellow-524.jpg,37.4,42.64,"50% Modal (TENCEL?), 50% Organic Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-38,PAISLEY ALLOVER T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/0f6/paisley-allover-t-shirt-blue-2d8.jpg,29.9,34.09,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-39,PAISLEY LOGO T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/c10/paisley-logo-t-shirt-blue-a27.jpg,29.9,34.09,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-40,PAISLEY LOGO T-SHIRT OFFWHITE,white,https://www.bleed-clothing.com/media/product/537/paisley-logo-t-shirt-offwhite-288.jpg,29.9,34.09,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-41,STRIPED LINEN T-SHIRT SAND,sand,https://www.bleed-clothing.com/media/product/876/striped-linen-t-shirt-sand-cda.jpg,37.4,42.64,"50% Linen, 50% Organic Cotton",men,bleed,0,0,0.5,0,0,0,0,0,0,0,0,0.5
-42,FLAGTREE T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/572/flagtree-t-shirt-blue-85a.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-43,UPPERFRANCONIA T-SHIRT WHITE,white,https://www.bleed-clothing.com/media/product/7ba/upperfranconia-t-shirt-white-2e6.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-44,FICHTELFORNIA T-SHIRT DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/ba7/fichtelfornia-t-shirt-dark-green-7d6.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-45,HOMEGROWN FICHTEL T-SHIRT GREY MELANGE,grey melange,https://www.bleed-clothing.com/media/product/a7f/homegrown-fichtel-t-shirt-grey-melange-1e0.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-46,ROAD B303 T-SHIRT BLACK,black flam¨¦,https://www.bleed-clothing.com/media/product/dc7/road-b303-t-shirt-black-7df.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-47,NATURAL GROWN T-SHIRT OLD ROSE,dirty rose,https://www.bleed-clothing.com/media/product/da3/natural-grown-t-shirt-old-rose-964.jpg,39.9,45.49,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-48,POCKET V-NECK T-SHIRT FORESTFIBRE DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/8a8/pocket-v-neck-t-shirt-forestfibre-dark-green-0e2.jpg,37.92,43.23,"50% Modal (TENCEL?), 50% Organic Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-49,DOT LOGO T-SHIRT FORESTFIBRE DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/41b/dot-logo-t-shirt-forestfibre-dark-green-94d.jpg,37.92,43.23,"50% Modal (TENCEL?), 50% Organic Cotton",men,bleed,0,0,0,0,0,0,0,0,0,0.5,0,0.5
-50,HOMEWAII T-SHIRT GREY,grey,https://www.bleed-clothing.com/media/product/e19/homewaii-t-shirt-grey-672.jpg,30.32,34.56,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-51,ZZ-JACQUARD T-SHIRT,grey patterned,https://www.bleed-clothing.com/media/product/ee0/zz-jacquard-t-shirt-692.jpg,44.9,51.19,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-52,DOT LOGO T-SHIRT GREEN,green,https://www.bleed-clothing.com/media/product/3d8/dot-logo-t-shirt-green-ea1.jpg,36.9,42.07,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-53,BLEED X PETA HUMANE MEAT T-SHIRT ANTHRACITE FLAM?,anthracite flam¨¦,https://www.bleed-clothing.com/media/product/a21/bleed-x-peta-humane-meat-t-shirt-anthracite-flame-99c.jpg,34.9,39.79,100% Organic Cotton,men,bleed,0,0,0,0,0,0,0,0,0,0,0,1
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
+,title,color,imageUrl,price,description,gender,brand,composition,cotton,hemp,viskose,kapok,lyocell,modal,linen
+0,UPPERFRANCONIA T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/18b/upperfranconia-t-shirt-ladies-blue-bf6.jpg,39.79,Do you know this vintage-print? We would like to show our enthusiasm for our homeland to the whole world! That's why the back of this blue organic cotton T-shirt is adorned with our popular Upper Franconia print.,women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+1,WINDY HEIGHTS HEMP T-SHIRT LADIES OFFWHITE,off white,https://www.bleed-clothing.com/media/product/582/windy-heights-hemp-t-shirt-ladies-offwhite-648.jpg,51.19,Have you ever been lucky enough to experience a sunset from the windy heights? We wanted to encapsulate the magic of moments like this with our hand-drawn ??Nature Rocks?? print. This fairly-produced T-shirt is made from a material mix of hemp and organic cotton and is manufactured at a small factory in Portugal. ,women,bleed,15% Hemp 85% Organic Cotton,0.85,0.15,0,0,0,0,0
+2,SUPER ACTIVE LENZING? ECOVERO? T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/6a5/super-active-lenzingtm-ecoverotm-t-shirt-ladies-blue-723.jpg,56.89,"Did you know that quartz is said to have healing powers? Whether you believe it or not, we??ve embroidered this lucky charm in a tonal design on this functional T-shirt, made from 100% LENZING? ECOVERO?. The structured fabric has a particularly special feel and is soft on your skin, quite unlike other functional materials made from plastics. The flatlock seams on the shoulders have been specially thought up to avoid blisters caused by rucksacks or hydration packs.",women,bleed,100% Viskose,0,0,1,0,0,0,0
+3,365 T-SHIRT LYOCELL (TENCEL?) LADIES GREY,grey,https://www.bleed-clothing.com/media/product/17e/365-t-shirt-lyocell-tenceltm-ladies-grey-aa5.jpg,42.07,"Our Ladies Essential T-Shirts are now available in a new cut and in three different colours. The grey version gives you a sporty look. The material has a flecked appearance and is made from 100% soft, flowing Lyocell (TENCEL?). The cut is something special. By not having sleeve seams we can minimize fabric consumption and create a nicer cut with a relaxed fit.",women,bleed,100% Lyocell (TENCEL?),0,0,0,0,1,0,0
+4,365 T-SHIRT KAPOK LADIES WHITE,white,https://www.bleed-clothing.com/media/product/9b4/365-t-shirt-kapok-ladies-white-caa.jpg,42.07,"Our Ladies Essential T-Shirts are now available in a new cut and in three different colours. Since a white T-shirt should be a staple in any wardrobe, we've created a fair, ecological and functional variant for you. The material is a mix of kapok and organic cotton which makes this T-shirt soft and breathable and ensures you won't break out in a sweat. The cut is also something special. By not having sleeve seams we can minimize fabric consumption and create a nicer cut with a relaxed fit.",women,bleed,"15% Kapok, 85% Organic Cotton",0.85,0.15,0,0,0,0,0
+5,365 T-SHIRT LYOCELL (TENCEL?) LADIES BLACK,black,https://www.bleed-clothing.com/media/product/471/365-t-shirt-lyocell-tenceltm-ladies-black-a31.jpg,42.07,"Our Ladies Essential T-Shirts are now available in a new cut and in three different colours. The black version goes with any outfit. You can wear it as part of a sporty or elegant look. The material is made from 100% super soft, flowing Lyocell (TENCEL?). The cut is something special. By not having sleeve seams we can minimize fabric consumption and create a nicer cut with a relaxed fit.",women,bleed,100% Lyocell (TENCEL?),0,0,0,0,1,0,0
+6,ALPINE SWIFT HEMP T-SHIRT LADIES OFFWHITE,off white,https://www.bleed-clothing.com/media/product/d50/alpine-swift-hemp-t-shirt-ladies-offwhite-a3a.jpg,38.42,You??re truly lucky if you??ve ever seen a graceful Alpine swift in the wild. This unique bird is in danger of becoming extinct in Germany. We think it??s incredibly important to protect all endangered species. That??s why we??ve put these birds centre stage on this T-shirt with a handmade print. The T-shirt itself is made of a mix of hemp and organic cotton. This means that pesticide can be avoided during the material cultivation phase and several litres of water are saved. ,women,bleed,15% Hemp 85% Organic Cotton,0.85,0.15,0,0,0,0,0
+7,LAKEFLY T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/0d0/lakefly-t-shirt-ladies-white-24b.jpg,34.09,Dragonflies come in so many different colours. Their iridescent wings and bodies are always fascinating. The water-based print on this 100% organic cotton T-shirt should add a touch of their beauty to your daily life. The feminine cut of this GOTS-certified T-shirt is sure to flatter your figure.,women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+8,LAKEFLY FORESTFIBRE T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/e49/lakefly-forestfibre-t-shirt-ladies-blue-c3d.jpg,42.64,"Watching dragonflies dance in the summer sun never ceases to amaze. That??s why they adorn this casual, floaty T-shirt made from modal (TENCEL?) and organic cotton. Thanks the breathable and odour-neutralising qualities of the material, it??s also suitable for sportier activities. The relaxed fit with dropped shoulders also flatters every figure. ",women,bleed,50% Modal (TENCEL?) 50% Organic Cotton,0.5,0,0,0,0,0.5,0
+9,FERNSTER FORESTFIBRE T-SHIRT LADIES YELLOW,yellow,https://www.bleed-clothing.com/media/product/c8d/fernster-forestfibre-t-shirt-ladies-yellow-b7c.jpg,42.64,"The more relaxed, floaty cut of this T-shirt is sure to become your favourite, because the dropped shoulders flatter every figure. The embroidered fern and lemon yellow colour are also an instant mood booster. This T-shirt is in an innovative mixed material made from modal (TENCEL?) and organic cotton which is perfect for sportier activities thanks to its breathable and odour-neutralising qualities.",women,bleed,50% Modal (TENCEL?) 50% Organic Cotton,0.5,0,0,0,0,0.5,0
+10,STRIPED LINEN T-SHIRT LADIES SAND,sand,https://www.bleed-clothing.com/media/product/e40/striped-linen-t-shirt-ladies-sand-fa1.jpg,42.64,"Back to basics! This striped T-shirt scores highly thanks to its sportier cut, longer sleeves and side slits. This means it??s perfect for wearing over skinny jeans or leggings. The advantages of the mixed material, made from organic cotton and linen, become particularly clear on warmer days because this material is breathable and cooling.",women,bleed,"50% Linen, 50% Organic Cotton",0.5,0,0,0,0,0,0.5
+11,SCHWAMMA T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/81d/schwamma-t-shirt-ladies-white-bb8.jpg,42.07,"On a wet autumn day, there??s nothing nicer than letting your mind wander on a long hike gathering mushrooms. Our favourite mushrooms that grow near us are depicted on this T-shirt, made from 100% organic cotton.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+12,FLAGTREE T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/017/flagtree-t-shirt-ladies-blue-a67.jpg,39.79,"Are you experiencing d??j?? vu right now? Let us reassure you that the design of this T-shirt might look really familiar to you because it's based on our famous Flag T-shirt. But we gave it a cool Franconian Forest look, in a blue colour that goes perfectly with jeans. This T-shirt has a feminine fit, a water-based print, is made of 100% organic cotton and is manufactured in fair working conditions.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+13,STRANGESTFOREST T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/666/strangestforest-t-shirt-black-8bf.jpg,39.79,The fir tree monocultures that characterise the landscapes of the Franconian Forest and the Fichtel Mountains do look a little strange - but there is a lot to discover in them! This 100% organic cotton T-shirt displays the 'strangest forest' with a water-based print.,women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+14,UPPERFRANCONIA T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/672/upperfranconia-t-shirt-ladies-white-32c.jpg,39.79,"Everyone who looks at you will see that Upper Francona is really worth a first! That's because the back of this white, organic cotton T-shirt features an eye-catching Upper Franconia print.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+15,HOMEGROWN FICHTEL T-SHIRT LADIES GREY MELANGE,GREY MELANGE,https://www.bleed-clothing.com/media/product/317/homegrown-fichtel-t-shirt-ladies-grey-melange-c18.jpg,39.79,"For us there's nothing better than being surrounded by the nature right here in our region. We've grown up here and we draw our inspiration from the area. We've immortalised this incredible landscape in a handmade woodcut which has been used to create the print on the front of this comfortable Homegrown Fichtel T-shirt, made from organic cotton. The relaxed, feminine fit and the grey colour are easy to wear with anything.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+16,FICHTELFORNIA T-SHIRT LADIES DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/c93/fichtelfornia-t-shirt-ladies-dark-green-f19.jpg,39.79,"In our opinion, our home, the Fichtel Mountains, can easily compete with world renowned regions. There's a crazy amount of opportunities to do sports whilst the number of skate parks and panoramic roads is also comparable to California. So it's our very own 'Fichtelfornia'. Our home-inspired T-shirt is adorned with the most well-known mountain here, the Ochsenkopf.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+17,ROAD B303 T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/836/road-b303-t-shirt-black-a07.jpg,39.79,When driving on state highway B303 you will experience a stunning view! The gentle hills of Fichtelgebirge and Frankenwald are showing it`s best. The scenic road is totally underestimated - that`s what we think. And so we dedicated a soft organic cotton T-Shirt to this road in our home area.,women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+18,NATURAL GROWN FLOWER T-SHIRT LADIES WHITE | MINT,white-mint,https://www.bleed-clothing.com/media/product/f7a/natural-grown-flower-t-shirt-ladies-white-mint-236.jpg,34.56,"With this organic cotton shirt, flowers from the local region grow from your hips upwards, in a mint-coloured watercolour print. Pure flower power!",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+19,NATURAL GROWN T-SHIRT LADIES HEMP OFFWHITE,off white,https://www.bleed-clothing.com/media/product/f4b/natural-grown-t-shirt-ladies-hemp-offwhite-aad.jpg,51.19,"At first glance this item might seem just to be a classic, off-white T-shirt. But when you turn around, you reveal the picturesque mountain and plant print on the back. Hopefully it will remind you of how beautiful nature can be, and what great adventures we can experience, even close to home. Absolutely true to the 'homegrown' ethos. The material is a blend of organic cotton and a small amount of hemp, which means that it has a light and relaxed texture, whilst still being wonderfully soft.",women,bleed,15% Hemp 85% Organic Cotton,1,0,0,0,0,0,0
+20,SKULLFLOWER T-SHIRT LADIES WHITE,white,https://www.bleed-clothing.com/media/product/55c/skullflower-t-shirt-ladies-white-8ef.jpg,39.79,"The skullflower was the first design that Michael created in 2008 for his newly founded label, bleed. On the occasion of our brand's 10th anniversary, we're reviving the skullflower print. Not quite as colourful as it was then, but at least just as good! And - how could it not be? - of course still printed on 100% fine, organic cotton.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+21,LIZARDSKIN LYOCELL (TENCEL?) T-SHIRT LADIES BLUE,blue,https://www.bleed-clothing.com/media/product/847/lizardskin-lyocell-tenceltm-t-shirt-ladies-blue-b62.jpg,51.19,"The Lyocell (TENCEL?) Lizard Skin T-Shirt is the perfect companion for any sporty trip. The close fit and natural, breathable, functional material Lyocell (TENCEL?) guarantee that you'll be comfortable on any adventure. If you take a closer look, you'll see that there are small trees growing out of the seam. So what are you waiting for? Let's head outside! Under the mountain print on the back, the motto 'Love your playground' reminds everyone who sees it of the importance of protecting nature.",women,bleed,100% Lyocell (TENCEL?),0,0,0,0,1,0,0
+22,BLOODYPINEAPPLE T-SHIRT LADIES RED,red,https://www.bleed-clothing.com/media/product/c15/bloodypineapple-t-shirt-ladies-red-0c2.jpg,42.07,"If your wardrobe has a vitamin deficiency or a lack of colour, then we fully recommend our 100% organic cotton Bloody Pineapple T-shirt in this nice red tone. Our popular bloody fruit T-shirts are eventually available again, and this time also in this eye-catching colour.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+23,BLOODYPINEAPPLE T-SHIRT LADIES NAVY,blue,https://www.bleed-clothing.com/media/product/6b7/bloodypineapple-t-shirt-ladies-navy-ed5.jpg,42.07,"The bleed fruit T-shirts are finally back again! This time, it's a redesign of the bloody pineapple which is the star of our 100% organic cotton T-shirts. As well as providing you with your necessary daily portions of vitamin A, C and E, this T-shirt will make you feel like the top banana.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+24,BLEED X PETA HUMANE MEAT LADIES T-SHIRT ANTHRACITE FLAM?,black,https://www.bleed-clothing.com/media/product/1a8/bleed-x-peta-humane-meat-ladies-t-shirt-anthracite-flame-5d3.jpg,39.79,"Together against the plastic flood! This white T-shirt made of soft organic cotton was created in cooperation with flustix. flustix has set itself the task of reducing plastic in the consumer sector and awards seals that certify products as plastic-free. Our shirt has more than earned the seal, because the seams are made of TENCEL? yarn, the prints are water-based and instead of a small care label inside the shirt, we simply printed the washing instructions on the chest.",women,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+25,STRANGESTFOREST T-SHIRT BLACK,black,https://www.bleed-clothing.com/media/product/8ff/strangestforest-t-shirt-black-295.jpg,39.79,The fir tree monocultures that characterise the landscapes of the Franconian Forest and the Fichtel Mountains do look a little strange - but there is a lot to discover in them! This 100% organic cotton T-shirt displays the 'strangest forest' with a water-based print.,men,bleed,"60% Organic Cotton, 40% Recycled Cotton",1,0,0,0,0,0,0
+26,SEIDLA T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/8e5/seidla-t-shirt-blue-231.jpg,39.79,"Cheers! There is nothing better than the cozy afterwork ??seidla??, which we have embroidered on the chest of this blue T-shirt made of organic cotton. And as you know, the best beer comes from Franconia anyway. ;-)",men,bleed,"60% Organic Cotton, 40% Recycled Cotton",1,0,0,0,0,0,0
+27,FICHTELFORNIA T-SHIRT OLIVE,olive,https://www.bleed-clothing.com/media/product/680/fichtelfornia-t-shirt-olive-ef2.jpg,39.79,"Fich-tel-fornia-Dreaming, Fich-tel-fornia-Dreaming... Well, catchy tune? We love our Fichtelfornia with its unique nature, the mass of skate parks, the other possibilities for sports and the panoramic roads, which can easily keep up with California. This olive-colored T-shirt made of organic cotton is decorated with our popular Fichtelfornia print, on which you can recognize the Ochsenkopf, the second highest mountain in the Fichtelgebirge!",men,bleed,"60% Organic Cotton, 40% Recycled Cotton",1,0,0,0,0,0,0
+28,UPPERFRANCONIA T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/cd8/upperfranconia-t-shirt-blue-f6d.jpg,39.79,"Does this vintage-print look familiar to you? We would like to show our enthusiasm for our homeland to the whole world! Therefore, the front of this blue shirt made of organic cotton is decorated with our popular Upper Franconia print.",men,bleed,"60% Organic Cotton, 40% Recycled Cotton",1,0,0,0,0,0,0
+29,BLOCK STRIPE HEMP T-SHIRT,blue | offwhite | ochre,https://www.bleed-clothing.com/media/product/57c/block-stripe-hemp-t-shirt-e62.jpg,51.19,"A hemp and organic cotton T-shirt with printed stripes. Why is that not just cool, but also good for the environment? Because the use of hemp can save a huge amount of water and pesticides being used in the material cultivation phase. By avoiding dying the material, the natural colour is maintained and one step in the production chain is saved. And because printing is also less energy-intensive than dying, we??ve added the stylish stripes onto this T-shirt as a print. ",men,bleed,15% Hemp 85% Organic Cotton,0.85,0.15,0,0,0,0,0
+30,WOOD LOGO T-SHIRT OLIVE,olive,https://www.bleed-clothing.com/media/product/dc6/wood-logo-t-shirt-olive-926.jpg,45.49,"Always up to date, always good: our classic organic cotton style, the logo T-shirt. This time with a cool tree trunk design against a mossy green colour. ",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+31,SUPER ACTIVE LENZING? ECOVERO? T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/b47/super-active-lenzingtm-ecoverotm-t-shirt-blue-54a.jpg,56.89,"Whether you??re a climbing pro or simply like to go for a relaxed jog from time to time, your sweat is no problem for the Super Active T-Shirt, made from 100% LENZING? ECOVERO?. The material is breathable and odour-inhibiting, as well as wonderfully soft on your skin. The flat seams prevent blisters and rubbing. ",men,bleed,100% Viskose,0,0,1,0,0,0,0
+32,365 T-SHIRT KAPOK WHITE,white,https://www.bleed-clothing.com/media/product/497/365-t-shirt-kapok-white-3e1.jpg,42.07,"A white T-shirt should be a staple in every wardrobe. It goes with everything, whether you wear it alone with jeans or put it under a jumper. We even have an extra advantage: the material combination we've used, a mix of kapok and organic cotton, makes this T-shirt soft and breathable and ensures that you won't break out into a sweat. The slightly rounded lower hem provides the necessary style factor.",men,bleed,"15% Kapok, 85% Organic Cotton",0.85,0.15,0,0,0,0,0
+33,365 T-SHIRT MODAL (TENCEL?) GREY,grey,https://www.bleed-clothing.com/media/product/c02/365-t-shirt-modal-tenceltm-grey-66f.jpg,42.07,"A grey T-shirt basically goes with anything. This T-shirt also catches your eye with its flecked colour, slightly rounded lower hem and the choice of material. The material is a mix of organic cotton and beech cellulose fibre meaning it's super soft and breathable.",men,bleed,"25% Modal (TENCEL?), 75% Organic Cotton",0.75,0,0,0,0,0.25,0
+34,365 T-SHIRT BLACK FLAM?,black,https://www.bleed-clothing.com/media/product/0a6/365-t-shirt-black-flame-933.jpg,42.07,"This T-shirt is not just a simple black T-shirt. It's made from 100% organic cotton and has a nice flamm?? texture together with a clean cut. Of course, it's also produced under the highest ecological and social standards by small family businesses in Portugal.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+35,POCKET FORESTFIBRE T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/33a/pocket-forestfibre-t-shirt-blue-cef.jpg,42.64,"Did you know that the majority of the beech wood used for modal fabric (TENCEL?) comes from our home region of Upper Franconia? Our Forestfibre T-shirt is therefore even more of a local product than you think, and thanks to the mixed material made from organic cotton and modal (TENCEL?), this slim fit T-shirt is also wonderfully soft against your skin. The rich blue colour means you??ll have no problem combining it with other pieces in your wardrobe.",men,bleed,"50% Modal (TENCEL?), 50% Organic Cotton",0.5,0,0,0,0,0.5,0
+36,POCKET FORESTFIBRE T-SHIRT YELLOW,yellow,https://www.bleed-clothing.com/media/product/c0c/pocket-forestfibre-t-shirt-yellow-524.jpg,42.64,"A slice of lemon drizzle cake and a glass of ice cold lemonade: isn??t that just summer in a nutshell? Just as summery, if not more, is the lemon yellow colour of this Forestfibre T-shirt. It??s made from a material mix of modal (TENCEL?) and organic cotton which is soft on your skin and also breathable. Even though it??s slim fit, it won??t restrict you when doing sport. The stitched pocket features a small, embroidered bleed logo and adds the perfect finishing touches!",men,bleed,"50% Modal (TENCEL?), 50% Organic Cotton",0.5,0,0,0,0,0.5,0
+37,PAISLEY ALLOVER T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/0f6/paisley-allover-t-shirt-blue-2d8.jpg,34.09,"Textiles have been decorated with paisley prints since the third century. We also love this timeless print, which is why we??ve had it printed all over this dark blue T-shirt, made from 100% organic cotton. Small details like the rolled up sleeves perfectly complement this eye-catching design. This GOTS-certified design is manufactured in a small factory in Portugal.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+38,PAISLEY LOGO T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/c10/paisley-logo-t-shirt-blue-a27.jpg,34.09,Our distinctive logo also deserves a new look from time to time. The logo print on this dark blue T-shirt is structured around a paisley pattern and is understated yet unique. This T-shirt is made from organic cotton and is GOTS certified. The perfect everyday T-shirt.,men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+39,PAISLEY LOGO T-SHIRT OFFWHITE,white,https://www.bleed-clothing.com/media/product/537/paisley-logo-t-shirt-offwhite-288.jpg,34.09,Paisley and tie dye in one T-shirt? Our Off-white Logo T-Shirt is the proof that it works. This 100% organic cotton piece is GOTS certified and manufactured in Portugal.,men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+40,STRIPED LINEN T-SHIRT SAND,sand,https://www.bleed-clothing.com/media/product/876/striped-linen-t-shirt-sand-cda.jpg,42.64,"For fans of our collections, it??s probably not a surprise that stripes are featured. This version of the classic striped T-shirt sets itself apart with its mixed material made from organic cotton and linen. This gives the T-shirt a special feel and an unexpected lightness on your skin. ",men,bleed,"50% Linen, 50% Organic Cotton",0.5,0,0,0,0,0,0.5
+41,FLAGTREE T-SHIRT BLUE,blue,https://www.bleed-clothing.com/media/product/572/flagtree-t-shirt-blue-85a.jpg,39.79,"You may have come across this T-shirt design at bleed a few times before. We've given the design a cool Franconian Forest look, based on our Flag shirts. This casual T-shirt has a water-based print and a ribbed collar, is made of 100 percent organic cotton, and is of course fairly produced.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+42,UPPERFRANCONIA T-SHIRT WHITE,white,https://www.bleed-clothing.com/media/product/7ba/upperfranconia-t-shirt-white-2e6.jpg,39.79,"As a brand, we've remained loyal to our home region for over 10 years. And we think that we can also show this to the outside world. The front of this organic cotton T-shirt therefore has an Upper Franconia print which is sure to stand out.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+43,FICHTELFORNIA T-SHIRT DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/ba7/fichtelfornia-t-shirt-dark-green-7d6.jpg,39.79,"We draw inspiration and energy from our home, the Fichtel Mountains. This T-Shirt shows the Ochsenkopf which is the second highest mountain in the Fichtels. With its unique nature, the mass of skateparks, the numerous opportunities to do sport and its scenic routes, in our opinion it's easy to mistake the Fichtel Mountains for California. It's Fichtelfornia.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+44,HOMEGROWN FICHTEL T-SHIRT GREY MELANGE,grey melange,https://www.bleed-clothing.com/media/product/a7f/homegrown-fichtel-t-shirt-grey-melange-1e0.jpg,39.79,"Whether you've grown up in Upper Franconia like us, or you simply like to visit the region: the incredible landscape will stay in your mind. This landscape is immortalised in a handmade woodcut which has been used to create the print on this classic organic cotton T-shirt.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+45,ROAD B303 T-SHIRT BLACK,black flam??,https://www.bleed-clothing.com/media/product/dc7/road-b303-t-shirt-black-7df.jpg,39.79,When driving on state highway B303 you will experience a stunning view! The gentle hills of Fichtelgebirge and Frankenwald are showing it`s best. The scenic road is totally underestimated - that`s what we think. And so we dedicated a soft organic cotton T-Shirt to this road in our home area.,men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+46,NATURAL GROWN T-SHIRT OLD ROSE,dirty rose,https://www.bleed-clothing.com/media/product/da3/natural-grown-t-shirt-old-rose-964.jpg,45.49,"The front of this T-shirt is wonderfully simple - completely plain except for the bleed logo. The back of the shirt, on the other hand, is a real eye-catcher. The mountain and plant print ought to inspire new adventures, and bring back memories of those gone by. If that doesn't convince you, the unique vintage rose colour surely will - it goes well with everything! This particular bleed style is manufactured using GOTS-certified organic cotton in Portugal.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+47,POCKET V-NECK T-SHIRT FORESTFIBRE DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/8a8/pocket-v-neck-t-shirt-forestfibre-dark-green-0e2.jpg,43.23,"In this dark-green shirt you have just found the perfect camouflage for your next expedition in the local woods. It can accompany you anywhere, thanks to its high level of comfort, achieved through the blend of Modal (TENCEL?) and organic cotton. Even day to day you'll make a smart impression with its sleek V-neck and small breast pocket.",men,bleed,"50% Modal (TENCEL?), 50% Organic Cotton",0.5,0,0,0,0,0.5,0
+48,DOT LOGO T-SHIRT FORESTFIBRE DARK GREEN,dark green,https://www.bleed-clothing.com/media/product/41b/dot-logo-t-shirt-forestfibre-dark-green-94d.jpg,43.23,"Even the classics deserve a revamp from time to time. Our classic Dot Logo T-shirt is now also available in dark green, made from a blend of Modal (TENCEL?) and organic cotton. This soft and supple material keeps you cool in summer and warms you through winter. But the precise cut and ribbed hem are still the same as ever, true to the saying - if it's not broken, don't fix it!",men,bleed,"50% Modal (TENCEL?), 50% Organic Cotton",0.5,0,0,0,0,0.5,0
+49,HOMEWAII T-SHIRT GREY,grey,https://www.bleed-clothing.com/media/product/e19/homewaii-t-shirt-grey-672.jpg,34.56,"There are approximately 12,110km as the crow flies between Hawaii and Helmbrecht. We reckon that's much too far, but this T-shirt will give you that ""Homewaii"" feeling anyway! Instead of tropical flower prints and palm trees, we've gone for regional plant life from the Fichtel Mountains and Franconian Forest, and with its grayscale wash this shirt goes with almost anything. This GOTS-certified style was manufactured with fair working conditions in Portugal.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+50,ZZ-JACQUARD T-SHIRT,grey patterned,https://www.bleed-clothing.com/media/product/ee0/zz-jacquard-t-shirt-692.jpg,51.19,Life seldom takes the easiest route. There are usually some zig zags and ups and downs on the way. The lines on our T-shirt also go in zig zags. But isn't that much more exciting than regular lines which always just go the same direction? This stands out. A slightly thicker material made from 100% organic cotton will keep you company in any situation.,men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+51,DOT LOGO T-SHIRT GREEN,green,https://www.bleed-clothing.com/media/product/3d8/dot-logo-t-shirt-green-ea1.jpg,42.07,"You've got the green light with our classic Dot Logo T-Shirt. This 100% organic cotton, feel-good t-shirt has the clear potential to become your new favourite piece of clothing. The natural green tone and comfortable fit make it perfect everyday wear.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+52,BLEED X PETA HUMANE MEAT T-SHIRT ANTHRACITE FLAM?,anthracite flam??,https://www.bleed-clothing.com/media/product/a21/bleed-x-peta-humane-meat-t-shirt-anthracite-flame-99c.jpg,39.79,Have you ever heard the wording ?humane meat?? ? We have heard it more and more often recently and we think that humane meat production is not possible! This wording is bullshit. That?s why we designed a new T-shirt together with our partner PETA: Humane meat is yuppie bullshit! Wear the statement on your back!,men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
+53,FLUSTIX X BLEED T-SHIRT WHITE,white,https://www.bleed-clothing.com/media/product/7b0/flustix-x-bleed-t-shirt-white-552.jpg,45.09,"Why did we print the care label on the chest of this organic cotton shirt? So that we all rethink our plastic consumption more often. The white T-shirt was created in cooperation with flustix. flustix has set itself the task of reducing plastic in the consumer sector and awards seals that certify products as plastic-free. Our shirt has more than earned the seal, because we have not only printed the care label on the chest, also the seams are made of TENCEL? thread and the prints are water-based.",men,bleed,100% Organic Cotton,1,0,0,0,0,0,0
