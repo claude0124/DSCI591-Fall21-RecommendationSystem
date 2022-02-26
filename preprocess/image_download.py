@@ -15,25 +15,33 @@ if not os.path.isdir(data_path):
 
 df = pd.read_csv(r"./data/E-Weaver_data.csv", index_col=[0])
 
+# A list of image urls for checking duplicates
+img_url_lst = []
+
 n = df.shape[0]
 with tqdm(total = n) as pbar:
     for idx, row in df.iterrows():
         pbar.update(1)
-        
+       
         brand = row["brand"]
         img_url = row["imageUrl"]
-        if img_url.startswith("//"):
-            img_url = "http://" + img_url.replace("//", "", 1)
-        color = row["color"].replace("/", "-").strip()
-        title = row["title"].replace("/", "-").strip()
+        id = row["id"]
+        color = row["color"]
+        # To prevent the dupliate image urld
+        if img_url in img_url_lst:
+            continue
+        else:
+            img_url_lst.append(img_url)
+            if img_url.startswith("//"):
+                img_url = "http://" + img_url.replace("//", "", 1)
 
-        # print(img_url)
+            response = requests.get(img_url, headers = headers)
 
-        response = requests.get(img_url, headers = headers)
+            # file_name = str(idx) + "_" + color + "_" + brand + ".png"
+            file_name = str(id) + ".png"
+            try:
+                with open(os.path.join(data_path, file_name), "wb") as f:
+                    f.write(response.content)
 
-        file_name = str(idx) + "_" + title + "_" + color + "_" + brand + ".png"
-        try:
-            with open(os.path.join(data_path, file_name), "wb") as f:
-                f.write(response.content)
-        except: 
-            print("There is FileNotFoundError for:", file_name)
+            except: 
+                print("There is FileNotFoundError for:", file_name, brand)
