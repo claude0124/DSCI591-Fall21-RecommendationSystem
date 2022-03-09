@@ -57,6 +57,7 @@ Here are the pie chart of materials distribution of all the T-shirts
     * vgg16-masked-img.ipynb: Most part is duplicated from vgg16.ipynb except this notebook is used to extract features from masked images, also able to show n recommend T-shirt
     * model.py: Framework for KNN model
     * mask-rcnn/: masking_example.ipynb on how to load a mask pickle. masking_image.ipynb automatically apply mask pickle objects to raw images and save them in data/masked_image_data, also save masked image and rest unmasked in data/mixed_image_data
+   **For Masked R-CNN model source code and parameters file, see https://github.com/sugi-chan/clothes_segmentation**
 
 ## Result
 
