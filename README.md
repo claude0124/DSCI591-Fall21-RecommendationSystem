@@ -18,16 +18,16 @@ This folder contains scraper script for each individual brands. Due to the diffe
 
 ## data
 
-    * E-Weaver.csv: Cleaned, combined brands dataset of E-Weaver_data.csv. There are 23 brands selected based on ratings from GoodOnYou.eco website. Total 2833 unique T-shirts in the dataset
-    * clean_brand_data: Cleaned brand meta-data csv files, also contains a data_combine.py which populates E-Weaver.csv
-    * image_data: Downloaded original image from E-Weaver.csv's imageUrl Column
-    * mask_data: Zipped mask pickles from MRCNN model
-    * mask_pkls: An empty folder to be used to contain unzipped mask pickles from mask_data
-    * masked_image_data: 1420 masked images after applying mask pickles on the raw images
-    * misc: GOY_brand_data.json which contains data to help calculate sustainability index; 537.png, an example of bad image to filter out by code
-    * mixed_image_data: 1420 masked images + 1413 unmasked images
-    * raw_brand_data: Scrapped csv files from selected online retailers
-    * sustainability: csv file of sustainaility score for each T-shirt
+* E-Weaver.csv: Cleaned, combined brands dataset of E-Weaver_data.csv. There are 23 brands selected based on ratings from GoodOnYou.eco website. Total 2833 unique T-shirts in the dataset
+* clean_brand_data: Cleaned brand meta-data csv files, also contains a data_combine.py which populates E-Weaver.csv
+* image_data: Downloaded original image from E-Weaver.csv's imageUrl Column
+* mask_data: Zipped mask pickles from MRCNN model
+* mask_pkls: An empty folder to be used to contain unzipped mask pickles from mask_data
+* masked_image_data: 1420 masked images after applying mask pickles on the raw images
+* misc: GOY_brand_data.json which contains data to help calculate sustainability index; 537.png, an example of bad image to filter out by code
+* mixed_image_data: 1420 masked images + 1413 unmasked images
+* raw_brand_data: Scrapped csv files from selected online retailers
+* sustainability: csv file of sustainaility score for each T-shirt
 
 ## preprocess
 
@@ -53,11 +53,11 @@ Here are the pie chart of materials distribution of all the T-shirts
 
 ## Model
 
-    * vgg16.ipynb: Input is all the raw image and output a similarity_deep.pkl and flatten_matrix.pkl. The former one is used to reduce feature extractio time, latter is used as input to KNN model in separate work. This notebook can also display n recommend T-shirt based on given matrix index and similarity_deep matrix
-    * vgg16-masked-img.ipynb: Most part is duplicated from vgg16.ipynb except this notebook is used to extract features from masked images, also able to show n recommend T-shirt
-    * model.py: Framework for KNN model
-    * mask-rcnn/: masking_example.ipynb on how to load a mask pickle. masking_image.ipynb automatically apply mask pickle objects to raw images and save them in data/masked_image_data, also save masked image and rest unmasked in data/mixed_image_data
-   **For Masked R-CNN model source code and parameters file, see https://github.com/sugi-chan/clothes_segmentation**
+* vgg16.ipynb: Input is all the raw image and output a similarity_deep.pkl and flatten_matrix.pkl. The former one is used to reduce feature extractio time, latter is used as input to KNN model in separate work. This notebook can also display n recommend T-shirt based on given matrix index and similarity_deep matrix
+* vgg16-masked-img.ipynb: Most part is duplicated from vgg16.ipynb except this notebook is used to extract features from masked images, also able to show n recommend T-shirt
+* model.py: Framework for KNN model
+* mask-rcnn/: masking_example.ipynb on how to load a mask pickle. masking_image.ipynb automatically apply mask pickle objects to raw images and save them in data/masked_image_data, also save masked image and rest unmasked in data/mixed_image_data
+* **For Masked R-CNN model source code and parameters file, see https://github.com/sugi-chan/clothes_segmentation**
 
 ## Result
 
@@ -75,9 +75,9 @@ Here is the KNN result after fused E-Weaver.csv meta-data and features extracted
 
 ## Future Work
 
-    1. Getting more data, if users data are possilbe such as ratings, number or reivews
-    2. It is desired to go deeper on the raw image preprocess. The ideal clean image is without model and only has product itself through MRCNN or other segmentation work(some of MRCNN masking results are not satisfied). Unify the backgroung color of all image
-    3. Extract a majority color pixel from the T-shirt image
+1. Getting more data, if users data are possilbe such as ratings, number or reivews
+2. It is desired to go deeper on the raw image preprocess. The ideal clean image is without model and only has product itself through MRCNN or other segmentation work(some of MRCNN masking results are not satisfied). Unify the backgroung color of all image
+3. Extract a majority color pixel from the T-shirt image
 
 ## For More Information
 
