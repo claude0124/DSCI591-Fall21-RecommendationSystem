@@ -58,6 +58,20 @@ Here are the pie chart of materials distribution of all the T-shirts
     * model.py: Framework for KNN model
     * mask-rcnn/: masking_example.ipynb on how to load a mask pickle. masking_image.ipynb automatically apply mask pickle objects to raw images and save them in data/masked_image_data, also save masked image and rest unmasked in data/mixed_image_data
 
+## Result
+
+Here is result using VGG16 extracted features from raw images, and calculated cosine similarity
+
+![vgg16_result](Misc/vgg16_result.png)
+
+Here is the same process on masked images
+
+![vgg16_w_mask_result](Misc/vgg16_w_mask_result.png)
+
+Here is the KNN result after fused E-Weaver.csv meta-data and features extracted from vgg16 with masked images
+
+![knn_result](Misc/knn_result.png)
+
 ## Future Work
 
     1. Getting more data, if users data are possilbe such as ratings, number or reivews
