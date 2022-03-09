@@ -1,4 +1,4 @@
-# DSCI591-Fall21-E-Weaver:Sustainable Clothing Aggregation and Recommendation System
+# DSCI591/592-Fall21/Winter22-E-Weaver:Sustainable Clothing Aggregation and Recommendation System
 
 ## Abstract
 
