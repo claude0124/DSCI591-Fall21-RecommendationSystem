@@ -46,4 +46,4 @@ In the second half the capstone, the conceptualization of the E-Weaver as a clot
 
 ## For More Information
 
-For any additional questions, please contact [Dayun Piao](mailto:claude0124p@gmail.com), [Colin Murphy](mailto:ClnJMurph@gmail.com), [Matthew Merenich](mailto:m.merenich21@gmail.com), [Zifeng Wang](mailto:wangzf.sec@gmail.com).
+For any additional questions, please contact team members: [Dayun Piao](https://github.com/claude0124) - claude0124p@gmail.com | [Colin Murphy](https://github.com/Curf) - ClnJMurph@gmail.com | [Matthew Merenich](https://github.com/mmerenich21) - m.merenich21@gmail.com | [Zifeng Wang](https://github.com/princepeak) - wangzf.sec@gmail.com.
