@@ -1,4 +1,4 @@
-# DrexelUniversity-CapstoneI&II-E-Weaver:Sustainable Clothing Aggregation and Recommendation System
+# DrexelUniversity-CapstoneI&II-EWeaver:Sustainable Clothing Aggregation and Recommendation System
 
 ## Abstract
 
